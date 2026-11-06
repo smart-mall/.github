@@ -38,24 +38,24 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="profile/img/storefront-home.png" alt="用户端商品列表"></td>
-    <td width="50%"><img src="profile/img/storefront-coupons.png" alt="我的券"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/smart-mall/.github/master/profile/img/storefront-home.png" alt="用户端商品列表"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/smart-mall/.github/master/profile/img/storefront-coupons.png" alt="我的券"></td>
   </tr>
   <tr>
     <td align="center"><sub>用户端 · 商品列表</sub></td>
     <td align="center"><sub>用户端 · 我的券（未使用 / 占用中 / 已使用 / 已过期）</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="profile/img/storefront-profile.png" alt="个人资料"></td>
-    <td width="50%"><img src="profile/img/storefront-growth.png" alt="成长值与权益"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/smart-mall/.github/master/profile/img/storefront-profile.png" alt="个人资料"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/smart-mall/.github/master/profile/img/storefront-growth.png" alt="成长值与权益"></td>
   </tr>
   <tr>
     <td align="center"><sub>用户端 · 个人资料</sub></td>
     <td align="center"><sub>用户端 · 成长值、等级与权益</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="profile/img/admin-home.png" alt="后台管理首页"></td>
-    <td width="50%"><img src="profile/img/admin-coupon-records.png" alt="券发放记录"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/smart-mall/.github/master/profile/img/admin-home.png" alt="后台管理首页"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/smart-mall/.github/master/profile/img/admin-coupon-records.png" alt="券发放记录"></td>
   </tr>
   <tr>
     <td align="center"><sub>后台管理 · 首页</sub></td>
